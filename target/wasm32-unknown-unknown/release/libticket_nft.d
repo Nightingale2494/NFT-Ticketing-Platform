@@ -1,0 +1,1 @@
+C:\Users\user\OneDrive\Documents\Projects\NFT-Ticketing-Platform\target\wasm32-unknown-unknown\release\libticket_nft.rlib: C:\Users\user\OneDrive\Documents\Projects\NFT-Ticketing-Platform\contracts\ticket_nft\src\lib.rs

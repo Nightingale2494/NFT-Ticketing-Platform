@@ -1,0 +1,1 @@
+C:\Users\user\OneDrive\Documents\Projects\NFT-Ticketing-Platform\target\wasm32v1-none\release\ticket_nft.wasm: C:\Users\user\OneDrive\Documents\Projects\NFT-Ticketing-Platform\contracts\ticket_nft\src\lib.rs
